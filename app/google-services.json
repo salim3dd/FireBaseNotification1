@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "16000416031",
+    "firebase_url": "https://chatroom-d0860.firebaseio.com",
+    "project_id": "chatroom-d0860",
+    "storage_bucket": "chatroom-d0860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16000416031:android:6929c9d274fa15c1",
+        "android_client_info": {
+          "package_name": "com.salim3dd.chatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16000416031-6btdjg975greg2qrqq2c3ca9vnu97fte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFAKb61g4Pys1hT3qCHq234tlPIaxWe3Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16000416031:android:d985cf1b748a275e",
+        "android_client_info": {
+          "package_name": "com.salim3dd.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16000416031-6btdjg975greg2qrqq2c3ca9vnu97fte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFAKb61g4Pys1hT3qCHq234tlPIaxWe3Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16000416031:android:e7330e3ebef28d1b",
+        "android_client_info": {
+          "package_name": "com.example.salim3dd.firebasenotification2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16000416031-ieslf6jijqu85v49n80q53837lai5rrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salim3dd.firebasenotification2",
+            "certificate_hash": "263492F0EA305E0DDA614441400C18A08E0CCE81"
+          }
+        },
+        {
+          "client_id": "16000416031-6btdjg975greg2qrqq2c3ca9vnu97fte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFAKb61g4Pys1hT3qCHq234tlPIaxWe3Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16000416031-6btdjg975greg2qrqq2c3ca9vnu97fte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
